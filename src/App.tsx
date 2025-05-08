@@ -7,8 +7,8 @@ import { Toaster as Sonner } from "@/components/ui/sonner";
 function App() {
 
   return (
-    <>
-      <Toaster />
+    <> 
+      <Toaster /> 
       <Sonner />
       <Router>
         <Routes>
